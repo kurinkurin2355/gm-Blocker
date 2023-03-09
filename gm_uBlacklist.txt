@@ -96,3 +96,10 @@
 *://salatora.main.jp/*
 *://pinky-media.jp/*
 *://taishu.jp/*
+*://youtuberdictionary.com/*
+*://kiyohikofree.com/*
+*://hikari-iyashi.com/*
+*://nishinono.com/*
+*://youtubekasegu.info/*
+*://youtuber-world-v.com/*
+*://houwa13blog.com/*
