@@ -1,4 +1,4 @@
-# gm-Bloker
+# gm-Blocker
 [uBlacklist](https://iorate.github.io/ublacklist/)のフィルター
 
 ## 購読
