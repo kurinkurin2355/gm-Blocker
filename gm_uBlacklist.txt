@@ -364,3 +364,15 @@
 *://togetter.com/*
 *://2logch.com/*
 *://majimanjisokuhou.com/*
+*://www.henshin-hero.com/*
+*://service.aainc.co.jp/*
+*://www.profuture.co.jp/*
+*://biz.ncbank.co.jp/*
+*://liskul.com/*
+*://www.anken-navi.jp/*
+*://www.ad-flex.com/*
+*://aprico-media.com/*
+*://*.downloadastro.com/*
+*://otona-life.com/*
+*://oneuro.net/*
+*://dotapps.jp/*
