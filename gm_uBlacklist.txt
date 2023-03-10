@@ -357,3 +357,4 @@
 *://www.suzuco.net/*
 *://dohack.jp/*
 *://smile-kenji.com/*
+*://www.pinterest.jp/*
