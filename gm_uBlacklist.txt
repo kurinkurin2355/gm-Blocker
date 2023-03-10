@@ -361,3 +361,6 @@
 *://dohack.jp/*
 *://smile-kenji.com/*
 *://www.pinterest.jp/*
+*://togetter.com/*
+*://2logch.com/*
+*://majimanjisokuhou.com/*
