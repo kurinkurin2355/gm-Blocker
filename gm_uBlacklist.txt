@@ -14,6 +14,9 @@
 *://itgoldfish.com/*
 *://applimura.com/*
 *://www.sejuku.net/*
+*://techacademy.jp/*
+*://techplay.jp/*
+*://www.choge-blog.com/*
 *://*.potepan.com/*
 *://eng-entrance.com/*
 *://www.internetacademy.jp/*
