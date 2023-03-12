@@ -399,3 +399,5 @@
 *://www.nikkan-gendai.com/*
 *://altema.jp/*
 *://www.nikkansports.com/*
+*://itc.tokyo/*
+*://agency-star.co.jp/*
