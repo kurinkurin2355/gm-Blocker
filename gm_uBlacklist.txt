@@ -396,3 +396,6 @@
 *://efire-matome.com/*
 *://www.vtuber-matome-media.com/*
 *://teji-magazine.net/*
+*://www.nikkan-gendai.com/*
+*://altema.jp/*
+*://www.nikkansports.com/*
