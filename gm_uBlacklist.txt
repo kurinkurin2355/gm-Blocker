@@ -401,3 +401,4 @@
 *://www.nikkansports.com/*
 *://itc.tokyo/*
 *://agency-star.co.jp/*
+*://*.moppy.jp/*
