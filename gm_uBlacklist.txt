@@ -403,3 +403,5 @@
 *://agency-star.co.jp/*
 *://*.moppy.jp/*
 *://smartttphone.com/*
+*://1pack.blog/*
+*.softonic.jp/*
