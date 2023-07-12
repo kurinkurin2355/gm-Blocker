@@ -199,7 +199,7 @@
 *://anisoku.fc2.net/*
 *://dream.jp/*
 *://iti-inc.co.jp/*
-*://pixela.co.jp/*
+*://*.pixela.co.jp/*
 *://www.fami-geki.com/*
 *://www.thecinema.jp/*
 *://animeanime.jp/*
@@ -288,7 +288,7 @@
 *://intsolaralliance.org/*
 *://*.savetube.me/*
 *://www.kanzen.jp/*
-*://www.cinemacafe.net/*
+*://*.cinemacafe.net/*
 *://ln-news.com/*
 *://www.hikaku.com/*
 *://ciatr.jp/*
@@ -405,3 +405,4 @@
 *://smartttphone.com/*
 *://1pack.blog/*
 *://*.softonic.jp/*
+*://*.akira-5.work/*
