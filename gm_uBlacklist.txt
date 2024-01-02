@@ -406,3 +406,6 @@
 *://1pack.blog/*
 *://*.softonic.jp/*
 *://*.akira-5.work/*
+*://www.moomins-movie.com/*
+*://xn--obkv78rwvmyun.jp/*
+*://www.androidphonesoft.com/*
